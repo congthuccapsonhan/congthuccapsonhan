@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+"Công thức cấp số nhân là một công thức toán học dùng để mô tả một dãy số trong đó mỗi số hạng sau được tính bằng cách nhân số hạng trước đó với một hằng số gọi là công bội.Công thức này cho phép tính toán các số hạng của dãy cấp số nhân, nơi sự thay đổi giữa các số hạng là theo tỷ lệ cố định. Dãy cấp số nhân có ứng dụng trong nhiều lĩnh vực như tài chính để tính toán lãi suất kép, trong khoa học để mô tả các hiện tượng tăng trưởng hoặc giảm sút theo tỷ lệ cố định, và trong các bài toán lý thuyết số.
+Website: https://congthuccapsonhan.com/ #congthuccapsonhan #timhieuvecongthuccapsonhan"
+https://gravatar.com/congthuccapsonhan
+https://www.tumblr.com/congthuccapsonhan
+https://www.deviantart.com/congthuccapsonhan
+https://www.twitch.tv/congthuccapsonhan
